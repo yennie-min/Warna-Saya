@@ -89,6 +89,7 @@ int main ()
 
          cout << endl;
          cout << "Thanks for using Yenculator!" << endl;
+         cout << "Bye bye " << NAME << "!" << endl;
          cout << "Please come again later~" << endl;
          cout << endl;
      
